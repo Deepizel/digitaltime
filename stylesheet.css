@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+.clock{
+    color: white;
+    text-align: center;
+    margin: 10rem;
+    font-size: large;
+}
+
+span{
+    padding: 20px;
+    background-color: rgb(65, 9, 9);
+}
